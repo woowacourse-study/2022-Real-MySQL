@@ -14,6 +14,7 @@
 
  * `chapter 4 아키텍처`: 6월 12일 오후 5시 강남 윙스터디
  * `chapter 5 트랜잭션과 잠금`: 6월 16일 오후 5시 슬립 게더
+ * `chapter 8 인덱스`: 6월 23일 23시 슬립 게더
 
 ## 🙋 스터디원
 
@@ -29,3 +30,8 @@
  * [[10분 테코톡] 🔫 우기의 MySQL 아키텍처](https://www.youtube.com/watch?v=vQFGBZemJLQ) 시청
  * [어썸오 개발 블로그 [DB] 트랜잭션(Transaction)](https://wisdom-and-record.tistory.com/123?category=961494) 읽어보기
  
+### 5장
+
+ * [MySQL Replication(복제) - 단방향 이중화](https://server-talk.tistory.com/240) 읽어보기
+ * [RDS Read Replica](https://opentutorials.org/course/608/3122) 읽어보기
+ * [주디 프롤로그 @Transactional(readOnly = true)를 꼭 써야할까?](https://prolog.techcourse.co.kr/studylogs/2363) 읽어보기
