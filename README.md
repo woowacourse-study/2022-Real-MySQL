@@ -15,8 +15,8 @@
  * `chapter 4 아키텍처`: 6월 12일 오후 5시 강남 윙스터디
  * `chapter 5 트랜잭션과 잠금`: 6월 16일 오후 5시 슬립 게더
  * `chapter 8 인덱스`: 6월 23일 23시 슬립 게더
- * `chapter 9 옵티마이저와 힌트`: 날짜 미정
- * `chapter 10 실행 계획`: 날짜 미정
+ * `chapter 9 옵티마이저와 힌트`: 7월 3일 20시 슬립 게더
+ * `chapter 10 실행 계획`: 7월 10일 20시 슬립 
  * `chapter 11 쿼리 작성 및 최적화`: 날짜 미정
 
 ## 🙋 스터디원
@@ -40,6 +40,11 @@
  * [주디 프롤로그 @Transactional(readOnly = true)를 꼭 써야할까?](https://prolog.techcourse.co.kr/studylogs/2363) 읽어보기
  * [[10분 테코톡] 🌼 예지니어스의 트랜잭션](https://www.youtube.com/watch?app=desktop&v=e9PC0sroCzc) 시청
 
-### 6장
+### 8장
 
  * [Surrogate vs. natural/business keys](https://stackoverflow.com/questions/63090/surrogate-vs-natural-business-keys) 읽어보기
+ 
+ 
+### 9장
+
+ * [SQL Full table scan](http://jidum.com/jidums/view.do?jidumId=183) 읽어보기
